@@ -311,7 +311,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 **Rasya Andrean**
 - GitHub: [@rasyaandrean](https://github.com/rasyaandrean)
-- Email: rasya.andrean@example.com
+- Email: rasyaandrean@outlook.co.id
 
 ---
 
@@ -331,15 +331,15 @@ Distributed under the MIT License. See `LICENSE` for more information.
 If you have questions or issues:
 - 🐛 [Report Bug](https://github.com/username/daxx-ai/issues)
 - 💡 [Request Feature](https://github.com/username/daxx-ai/issues)
-- 📧 Email: support@example.com
+- 📧 Email: rasyaandrean@outlook.co.id
 
 ---
 
 ## 📊 Stats
 
-![GitHub stars](https://img.shields.io/github/stars/username/daxx-ai?style=social)
-![GitHub forks](https://img.shields.io/github/forks/username/daxx-ai?style=social)
-![GitHub issues](https://img.shields.io/github/issues/username/daxx-ai)
+![GitHub stars](https://img.shields.io/github/stars/rasyaandrean/daxx-ai?style=social)
+![GitHub forks](https://img.shields.io/github/forks/rasyaandrean/daxx-ai?style=social)
+![GitHub issues](https://img.shields.io/github/issues/rasyaandrean/daxx-ai)
 
 ---
 
